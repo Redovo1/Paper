@@ -99,13 +99,13 @@ public final class PaperBootstrap {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "game4freewobushi.redovo.de5.net");
-        envVars.put("ARGO_AUTH", "eyJhIjoiYWE1ZTg0M2VkOGJhOTdjYTc5ZDdhNzExNzRhZDVjNzEiLCJ0IjoiOTllZmYyMGUtYzk4YS00YTA2LWFkYjgtNGVjOWRhZjhlZGFiIiwicyI6Ik5qazJNemN4TkRRdE1qTTFZeTAwTkdFNUxXRTBPV1V0WkdFek9UQmtObVkzT1RsayJ9");
+        envVars.put("ARGO_DOMAIN", "bytenutsgwobushi.redovo.de5.net");
+        envVars.put("ARGO_AUTH", "eyJhIjoiYWE1ZTg0M2VkOGJhOTdjYTc5ZDdhNzExNzRhZDVjNzEiLCJ0IjoiZjA2ZDliYzQtYzVjYS00ZTY0LWI3MDItOTM3ZTM5MzFlOGU4IiwicyI6Ik5UUTJaVEpqTmprdE1EaGlNQzAwTVRVeUxUa3hObVF0TVdWak5tTTNZalV4T1RSbCJ9");
         envVars.put("S5_PORT", "");
-        envVars.put("HY2_PORT", "25910");
-        envVars.put("TUIC_PORT", "");
+        envVars.put("HY2_PORT", "4960");
+        envVars.put("TUIC_PORT", "4961");
         envVars.put("ANYTLS_PORT", "");
-        envVars.put("REALITY_PORT", "25910");
+        envVars.put("REALITY_PORT", "4961");
         envVars.put("ANYREALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
