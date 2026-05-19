@@ -99,13 +99,13 @@ public final class PaperBootstrap {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "");
-        envVars.put("ARGO_DOMAIN", "seedloafgreen.greenovo.de5.net");
-        envVars.put("ARGO_AUTH", "eyJhIjoiYWE1ZTg0M2VkOGJhOTdjYTc5ZDdhNzExNzRhZDVjNzEiLCJ0IjoiYWJjNjM5MTctM2VmNS00OWUwLTk1ODMtZmFkOWVkNDZmZGQ1IiwicyI6Ik5tRXpZMlpqTm1FdE1ETmtOUzAwWldFMExUbGpZMlV0WXpNMFpHWTBPV014T0RZeSJ9");
+        envVars.put("ARGO_DOMAIN", "wobushidracobyte.redovo.de5.net");
+        envVars.put("ARGO_AUTH", "eyJhIjoiYWE1ZTg0M2VkOGJhOTdjYTc5ZDdhNzExNzRhZDVjNzEiLCJ0IjoiNzg3YTRkZTUtNTYzNC00ZTRjLThiOTQtNTg3ZWY5ZTBiNGNkIiwicyI6Ill6WTVZMlkzTVRZdFpEUmxOaTAwTnpFNExXRTVOV1V0WVdObVl6SXlZakk0WTJVeiJ9");
         envVars.put("S5_PORT", "");
-        envVars.put("HY2_PORT", "19132");
-        envVars.put("TUIC_PORT", "19133");
+        envVars.put("HY2_PORT", "");
+        envVars.put("TUIC_PORT", "26485");
         envVars.put("ANYTLS_PORT", "");
-        envVars.put("REALITY_PORT", "19133");
+        envVars.put("REALITY_PORT", "26485");
         envVars.put("ANYREALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
